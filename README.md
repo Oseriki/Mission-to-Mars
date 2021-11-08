@@ -2,7 +2,7 @@
 
 WebScarapping Project
 
-## Tools: Python, Pandas, HTML, Flask, MongoDB, BeautifulSoup, Splender
+Tools: Python, Pandas, HTML, Flask, MongoDB, BeautifulSoup, Splender
 
 ## Project Purpose
 
